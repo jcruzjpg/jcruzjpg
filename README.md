@@ -14,7 +14,7 @@
 <h1 align="center">👋🏼 Hey, I'm Joshua</h1>
 <h3 align="center">A Full-Stack Software Engineer from Los Angeles, CA 🇸🇻</h3>
 
-Hi, I'm John Cruz. I am a full-stack software engineer based out of South Central, Los Angeles.
+Hi, I'm Joshua Cruz. I am a full-stack software engineer based out of South Central, Los Angeles.
 
 ## Technologies
 
