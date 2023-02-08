@@ -1,4 +1,4 @@
-<img src="gh-logo.png" width="100%">
+<img src="gh-banner.png" width="100%">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jjoshuacruz/" target="_blank">
