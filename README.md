@@ -13,7 +13,7 @@
 </p>
 <h1 align="center">👋🏼 Hey, I'm Joshua</h1>
 
-Hi, I'm Joshua Cruz. I am a full-stack software engineer based out of South Central, Los Angeles 🇸🇻
+I am a full-stack software engineer based out of South Central, Los Angeles 🇸🇻
 
 ## Technologies
 
@@ -25,6 +25,7 @@ Hi, I'm Joshua Cruz. I am a full-stack software engineer based out of South Cent
   <img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E">
   <img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB">
   <img alt="ejs" src="https://img.shields.io/badge/ejs-%23008015.svg?style=for-the-badge&amp;logo=node.js&amp;logoColor=%2361DAFB">
+  <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
 ### Back-End Development
